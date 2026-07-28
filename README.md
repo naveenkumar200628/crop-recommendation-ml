@@ -46,6 +46,13 @@ It helps farmers and agricultural planners make **data-driven decisions** to imp
 ├── .gitignore # Files ignored by Git
 
 ---
+## 📊 Model Performance
+
+### Confusion Matrix
+![Confusion Matrix](images\confusion_matrix.png)
+
+### Feature Importance
+![Feature Importance](images\feature_importance.png)
 
 ## ⚙️ Installation & Setup
 
@@ -67,13 +74,6 @@ Example:
 Input: N=90, P=42, K=43, Temperature=20.8, Humidity=82, pH=6.5, Rainfall=202
 Output: Rice
 
-## 📊 Model Performance
-
-### Confusion Matrix
-![Confusion Matrix](images\confusion_matrix.png)
-
-### Feature Importance
-![Feature Importance](images\feature_importance.png)
 
 
 👨‍💻 Author
